@@ -7,7 +7,7 @@ The app involves MongoDB integration, logging with NextAuth using Google Provide
 
 Demo is available on [Vercel](https://quotr-d35xop6ij-practical-solution.vercel.app/)
 
-![image](https://github.com/Curiosit/quotr/assets/17218693/617a4010-2bf3-4cbd-8775-90a587f5478a)
+![image](https://github.com/Curiosit/quotr/assets/17218693/2af4bfeb-8f43-4309-be10-1f52a34ff4ce)
 
 After logging in with NextAuth using Google Provider, the user can add new quotes.
 

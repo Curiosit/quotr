@@ -11,7 +11,7 @@ Demo is available on [Vercel](https://quotr-d35xop6ij-practical-solution.vercel.
 
 After logging in with NextAuth using Google Provider, the user can add new quotes.
 
-![image](https://github.com/Curiosit/quotr/assets/17218693/18406ec7-b462-497b-88d2-0a50805e0df4)
+![image](https://github.com/Curiosit/quotr/assets/17218693/b4c9e0e6-8d78-4434-baee-ea0a931d8b19)
 
 Users can also see their own profile page and modify already posted quotes.
 
